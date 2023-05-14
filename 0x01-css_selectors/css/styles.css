@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+header, footer {
+    width: 100%;
+    padding: 5px;   
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.eyesOn {
+    background-color: #023246;
+    color: #f6f6f6;
+    text-align: center;
+}
+
+h2 {
+    margin-left: 70px;
+}
+
+p {
+    margin: 0 70px 0 70px;
+    text-align: justify;
+}
+
+.gray {
+    color: #287094;
+}
+
+p span {
+    text-transform: uppercase;
+    background-color: #287094;
+    color: #f6f6f6;
+}
+
+.gray_1 {
+    text-align: center;
+}
+
