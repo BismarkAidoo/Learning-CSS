@@ -1,0 +1,25 @@
+body {
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #001219;
+}
+
+header, footer {
+    background-color: #005f73;
+    color: #f4f4f4;
+    width: 100%;
+    padding: 3px;
+}
+
+h2, p {
+    color: #f4f4f4;
+    text-align: justify;
+    margin: 20px 70px 20px 70px;
+    padding: 5px;
+}
+
+.center {
+    text-align: center;
+}
